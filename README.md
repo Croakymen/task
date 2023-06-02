@@ -3,4 +3,4 @@
 ### A twine story
 
 [COVERSHEET](COVERSHEET)
-[Project Journal](Project Journal)
+[Journal](Journal)
