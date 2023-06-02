@@ -1,5 +1,5 @@
-##SUPERBACANA
-#By Tarn Johnson
+## SUPERBACANA
+# By Tarn Johnson
 # A twine story
 
 [COVERSHEET](COVERSHEET)
