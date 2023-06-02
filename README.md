@@ -4,4 +4,4 @@
 
 - [COVERSHEET](COVERSHEET)
 
-- [Journal](JOURNAL)
+- [JOURNAL](JOURNAL)
