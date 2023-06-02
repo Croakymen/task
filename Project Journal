@@ -1,0 +1,108 @@
+###### i vow to do the thing
+# i will write stuff
+
+# been listening to a lot of the doors lately
+# really want to create a sort of work inspired by the desert imagery, in twine or inform7 format
+# a wild west text adventure perhaps
+# following on from the assignment one case studies, a big topic is pacing.
+# i think speeding the game up for a gun duel could be really smart use of medium.
+# working at aldi and having to type in product codes extremely fast is reminiscent of typing literacy software
+# text inputs would deal damage according to the number of characters
+# type 'shoot' instead of 'fan' for accuracy
+# 
+# 20/3/23:
+# travel the wilds learning new and powerful verbs
+# the meanest vaquero in the wasteland has a WPM of 121
+
+#21/3/23:
+# i quite like the idea if using onomatopoeia as the dialogue options
+# makes things very visual and is reminiscent of the long tradition of wild west comics
+
+# 27/3/23: 
+# twine seems to be very useful software to create piece inside of
+#image formatting seems a little difficult however
+#I was interested in using images a lot so i might take a cue from dwarf fortress and use text graphics
+#there is probably a site online to convert .SVG to text graphics or something
+
+#17/4/23
+#bitsy is a good candidate to employ ludic aspects within a work
+#whether it is possible to combine with twine text is yet to be seen
+#it could have some issues in terms of loading times
+#it could habe some issues with multiple branches since all twine code is on a single page
+
+#might need to do traditional html links for options in order to have multiple bitsy files for each choice
+#isometric bitsy graphics maybe
+
+#21/4/23
+#as task two approaches it becomes more and more apparent that bitsy is too rigid in its aesthetic sensibility.
+#Currently, it seems a twine using GIFs is the best choice. They seem to load ok thus far.
+
+#24/4/23
+#I have mocked up a draft map for the presentation, which is a small fishing village.
+#Though demonstration of GIF in twine went well proving concept, I must now focus on organising story
+#I think this fishing village may prove to be too isolated for a dynamic story to take place in
+
+#26/4/23
+#Been looking at a lot of photography journals of Pablo Lopez Luz, and his series on hotels and resorts.
+#Might keep the missing shoes story, change the setting to luxury resort
+#This is my strong suit as making procedural music on latin themes is easy
+#Inspired by the Caetano Veloso song 'superbacana'
+
+#3/5/23
+#It is becoming apparent that Harlowe is disappointingly inflexible in its image formatting
+#I seem unable to use an image as a selectable option
+#I may just be bad with code
+#If I had more time, I would have been very interested in sugarcube story format, as it seems to give more freedom
+
+#12/5/23
+#GIF content of story transitions just fine.
+#Netlify supports sites up to 100gb.
+#I will upload final GIFs in 4k to use this.
+
+#14/5/23
+#Struggling to get harlowe variables to work. I am so unused to writing code, even in the harlowe markup language. Lots of syntax errors.
+#Despite this, story takes shape well.
+#Luxury resort setting works well for facilitating mystery narrative with a focus on exploration.
+
+#17/5/23
+#Though I proposed four endings, each with unique graphics, this is looking less likely.
+#This is simply due to the direction the story is heading, where changes to the overall scene may not be noticed.
+#Instead, I would consider unique GIFs for each passage, perhaps at a lower filesize.
+
+#20/5/23
+#Even a simple story like this has an incredible amount of depth to it that is not apparent upon a playthrough/reading.
+#It seems the story threads converge toward a single confrontation with hotel staff. Though this is not listed in the proposal, I am willing to embrace it.
+
+#21/5/23
+#The difference between the possible end product and the proposal is something I am not overly concerned with. 
+#The proposal was largely techically-oriented, going over the possibility of using GIFs with twine.
+#As such, story based changes are not of too much concern.
+
+#24/5/23
+#Struggling to implement text boxes that adhere to the stylesheet. A highlighted input box goes a dark colour that harms the presentation of the piece.
+#The styling of text and the background is the same as the GIF, colour-picked hex value.
+#Though I have spent some time preparing text boxes, if I am to choose between cohesive presentation and added functionality, I will choose presentation
+
+#26/5/23
+#Struggling to change stylesheet on variable cues. Not sure how this is possible without javascript. 
+#Nothing on this is listed in harlowe manual.
+#Changes to day/night cycle or scenery fall out of sync with background and text colour. 
+#Ugly result.
+
+#28/5/23
+#Implementation of simple sound effects building procedural soundtrack based on variables is possible, but unlikely
+#Getting every passage to run a secret 4 second timer to keep music on track will be incredibly difficult.
+#Though it was in my proposal, I will not be able to execute it in the final project without more time.
+
+#29/5/23
+#I am no longer working on GIFs. I suspect only the basic one will be used due to being unable to edit stylesheet in passage.
+
+31/5/23
+#Work is looking very polished... Though not without a number of missing features.
+#I am not sure whether my twine is complicated or just poorly organised.
+
+1/6/23
+#My girlfriend broke up with me
+
+2/6/23
+#Its going to be very close...
