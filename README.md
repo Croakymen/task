@@ -2,5 +2,6 @@
 ### By Tarn Johnson
 ### A twine story
 
-[COVERSHEET](COVERSHEET)
-[Journal](Journal)
+- [COVERSHEET](COVERSHEET)
+
+- [Journal](JOURNAL)
